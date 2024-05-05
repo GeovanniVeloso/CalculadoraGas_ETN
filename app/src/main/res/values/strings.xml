@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraGas_ETN</string>
+    <string name="comp">Comparar</string>
+    <string name="res"> </string>
+    <string name="gas">Insira o valor da Gasolina</string>
+    <string name="ETN">Insira o valor do Etanol</string>
+    <string name="res1">O etanol compensa mais que a gasolina</string>
+    <string name="res2">A gasolina compensa mais que o etanol</string>
+</resources>
